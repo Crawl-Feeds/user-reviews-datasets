@@ -5,12 +5,12 @@ Large user review datasets are good for sentiment analysis and NLP .. etc. Below
 These datasets are include free, paid datasets and available different formats like json, csv.
 
 ## 1. Apple mobile phones reviews
-Price: free
-Website: amazon.in
-Total Records: 39000
-Data points: 20
-Format: JSON
-Download: [Link](https://crawlfeeds.com/datasets/apple-mobile-phones-reviews)
+* Price: free
+* Website: amazon.in
+* Total Records: 39000
+* Data points: 20
+* Format: JSON
+* Download: [Link](https://crawlfeeds.com/datasets/apple-mobile-phones-reviews)
 
 ## 2.App Store reviews dataset
 Price: free
