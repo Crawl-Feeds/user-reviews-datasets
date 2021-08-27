@@ -13,17 +13,17 @@ These datasets are include free, paid datasets and available different formats l
 * Download: [Link](https://crawlfeeds.com/datasets/apple-mobile-phones-reviews)
 
 ## 2.App Store reviews dataset
-Price: free
-website: itunes
-Total records: 10000
-Data Points: 11
-Format: JSON
-Download: [Link](https://crawlfeeds.com/datasets/app-store-reviews-dataset)
+* Price: free
+* website: itunes
+* Total records: 10000
+* Data Points: 11
+* Format: JSON
+* Download: [Link](https://crawlfeeds.com/datasets/app-store-reviews-dataset)
 
 ## 3. New York hotels reviews dataset from tripadvisor
-Price: Paid
-Website: tripadvisor
-Total records: 1860000
-Data Points: 15
-Formar: CSV
-Download: [Link](https://crawlfeeds.com/datasets/new-york-hotels-reviews-dataset-from-tripadvisor)
+* Price: Paid
+* Website: tripadvisor
+* Total records: 1860000
+* Data Points: 15
+* Formar: CSV
+* Download: [Link](https://crawlfeeds.com/datasets/new-york-hotels-reviews-dataset-from-tripadvisor)
